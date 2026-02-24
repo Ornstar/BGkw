@@ -503,7 +503,7 @@ if (isMobile()) {
     const logoDiv = document.createElement("div");
     logoDiv.className = "logo";
     logoDiv.innerHTML = `
-    <img src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-POPUPAPLIKASI.webp" alt="Logo">
+    <img src="https://i.postimg.cc/rpgLtZw9/KW-POPUPAPLIKASI.webp" alt="Logo">
   `;
 
     leftSide.appendChild(closeBtn);
@@ -588,7 +588,7 @@ Pengalaman baru bermain di APK`;
       const updateMobileLogo = () => {
         if (window.innerWidth <= 768) {
           logoImg.src =
-            "https://clickdrive.tech/storage/cgg/Klikwin88/KW-LOGODESKTOP.webp";
+            "https://i.postimg.cc/ZnNNRdxy/KW-LOGODESKTOP.webp";
           logoImg.alt = "New Mobile Logo - KLIKWIN88";
           logoImg.title = "New Mobile Logo - KLIKWIN88";
         }
@@ -669,7 +669,7 @@ Pengalaman baru bermain di APK`;
         width: 95% !important;
         max-width: 440px !important;
         height: 85px !important;
-        background: url('https://clickdrive.tech/storage/cgg/Klikwin88/KW-JACKPOTPLAY.webp') no-repeat center !important;
+        background: url('https://i.postimg.cc/8zpF839n/KW-JACKPOTPLAY.webp') no-repeat center !important;
         background-size: 100% 100% !important;
         border-radius: 12px !important;
         overflow: hidden !important;
@@ -777,10 +777,10 @@ Pengalaman baru bermain di APK`;
           <div class="carousel-item active">
             <div class="items">
               <div class="col-md-4">
-                <img class="d-block w-100" src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-GatesOfOlympus.webp" alt="1st" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://i.postimg.cc/J03hvcqV/KW-Gates-Of-Olympus.webp" alt="1st" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
               <div class="col-md-4">
-                <img class="d-block w-100" src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-StarlightPrincess.webp" alt="2nd" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://i.postimg.cc/qM0qnSJ4/KW-Starlight-Princess.webp" alt="2nd" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
               <div class="col-md-4">
                 <img class="d-block w-100" src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-SweetBonanza.webp" alt="3rd" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
@@ -792,13 +792,13 @@ Pengalaman baru bermain di APK`;
           <div class="carousel-item">
             <div class="items">
               <div class="col-md-4 item">
-                <img class="d-block w-100" src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-GatesofGatotKaca.webp" alt="4th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://i.postimg.cc/rsHh6xFN/KW-Gatesof-Gatot-Kaca.webp" alt="4th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
               <div class="col-md-4 item">
-                <img class="d-block w-100" src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-TreasureofAztec.webp" alt="5th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://i.postimg.cc/QNvPyZBY/KW-Treasureof-Aztec.webp" alt="5th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
               <div class="col-md-4 item">
-                <img class="d-block w-100" src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-WildBandito.webp" alt="6th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://i.postimg.cc/wjRBdpFh/KW-Wild-Bandito.webp" alt="6th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
             </div>
           </div>
@@ -810,10 +810,10 @@ Pengalaman baru bermain di APK`;
                 <img class="d-block w-100" src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-LuckyNeko.webp" alt="7th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
               <div class="col-md-4 item">
-                <img class="d-block w-100" src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-LuckyFortune.webp" alt="8th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://i.postimg.cc/5Ny4wCYJ/KW-Lucky-Fortune.webp" alt="8th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
               <div class="col-md-4 item">
-                <img class="d-block w-100" src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-GoldenLion.webp" alt="9th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://i.postimg.cc/qBPrC5T2/KW-Golden-Lion.webp" alt="9th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
             </div>
           </div>
@@ -1127,7 +1127,7 @@ Pengalaman baru bermain di APK`;
 
         const newLogo = document.createElement("img");
         newLogo.src =
-          "https://clickdrive.tech/storage/cgg/Klikwin88/KW-LOGODESKTOP.webp";
+          "https://i.postimg.cc/rpgLtZw9/KW-POPUPAPLIKASI.webp";
         newLogo.alt = "KLIKWIN88 Logo";
         newLogo.title = "KLIKWIN88 Logo";
         newLogo.style.maxHeight = "40px";
@@ -1138,7 +1138,7 @@ Pengalaman baru bermain di APK`;
       const logoImg = document.querySelector(".navbar-brand img");
       if (window.innerWidth <= 768 && logoImg) {
         logoImg.src =
-          "https://clickdrive.tech/storage/cgg/Klikwin88/KW-POPUPAPLIKASI.webp";
+          "https://i.postimg.cc/rpgLtZw9/KW-POPUPAPLIKASI.webp";
         logoImg.alt = "New Mobile Logo - KLIKWIN88";
         logoImg.title = "New Mobile Logo - KLIKWIN88";
       }
@@ -1196,7 +1196,7 @@ Pengalaman baru bermain di APK`;
     const mainElement = document.querySelector(".main");
     if (mainElement) {
       mainElement.style.backgroundImage =
-        "url('https://clickdrive.tech/storage/cgg/Klikwin88/KW-BGDESKTOP.webp')";
+        "url('https://i.postimg.cc/3RVbqNCZ/KW-BGDESKTOP.webp')";
       mainElement.style.backgroundColor = "#000000";
       mainElement.style.backgroundPosition = "top center";
       mainElement.style.backgroundRepeat = "no-repeat";
