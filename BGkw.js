@@ -124,7 +124,7 @@ if (isMobile()) {
       width: 95%;
       max-width: 440px;
       height: 85px;
-      background: url('http://plcl.me/images/PKjoU.gif') no-repeat center;
+      background: url('https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-JACKPOTPLAY.webp') no-repeat center;
       background-size: 100% 100%;
       border-radius: 12px;
       overflow: hidden;
@@ -503,7 +503,7 @@ if (isMobile()) {
     const logoDiv = document.createElement("div");
     logoDiv.className = "logo";
     logoDiv.innerHTML = `
-    <img src="https://i.postimg.cc/rpgLtZw9/KW-POPUPAPLIKASI.webp" alt="Logo">
+    <img src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-POPUPAPLIKASI.webp" alt="Logo">
   `;
 
     leftSide.appendChild(closeBtn);
@@ -537,7 +537,7 @@ Pengalaman baru bermain di APK`;
 
     if (mainElement && window.innerWidth <= 768) {
       mainElement.style.backgroundImage =
-        "url('https://clickdrive.tech/storage/cgg/Klikwin88/KW-BGMOPBILE.webp')";
+        "url('http://plcl.me/images/VnxYy.jpg')";
       mainElement.style.backgroundColor = "#000000";
       mainElement.style.backgroundPosition = "top center";
       mainElement.style.backgroundRepeat = "no-repeat";
@@ -588,7 +588,7 @@ Pengalaman baru bermain di APK`;
       const updateMobileLogo = () => {
         if (window.innerWidth <= 768) {
           logoImg.src =
-            "https://i.postimg.cc/ZnNNRdxy/KW-LOGODESKTOP.webp";
+            "https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-LOGOMOBILE.webp";
           logoImg.alt = "New Mobile Logo - KLIKWIN88";
           logoImg.title = "New Mobile Logo - KLIKWIN88";
         }
@@ -669,7 +669,7 @@ Pengalaman baru bermain di APK`;
         width: 95% !important;
         max-width: 440px !important;
         height: 85px !important;
-        background: url('https://i.postimg.cc/8zpF839n/KW-JACKPOTPLAY.webp') no-repeat center !important;
+        background: url('https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-JACKPOTPLAY.webp') no-repeat center !important;
         background-size: 100% 100% !important;
         border-radius: 12px !important;
         overflow: hidden !important;
@@ -777,13 +777,13 @@ Pengalaman baru bermain di APK`;
           <div class="carousel-item active">
             <div class="items">
               <div class="col-md-4">
-                <img class="d-block w-100" src="https://i.postimg.cc/J03hvcqV/KW-Gates-Of-Olympus.webp" alt="1st" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-GatesOfOlympus.webp" alt="1st" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
               <div class="col-md-4">
-                <img class="d-block w-100" src="https://i.postimg.cc/qM0qnSJ4/KW-Starlight-Princess.webp" alt="2nd" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-StarlightPrincess.webp" alt="2nd" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
               <div class="col-md-4">
-                <img class="d-block w-100" src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-SweetBonanza.webp" alt="3rd" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-SweetBonanza.webp" alt="3rd" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
             </div>
           </div>
@@ -792,13 +792,13 @@ Pengalaman baru bermain di APK`;
           <div class="carousel-item">
             <div class="items">
               <div class="col-md-4 item">
-                <img class="d-block w-100" src="https://i.postimg.cc/rsHh6xFN/KW-Gatesof-Gatot-Kaca.webp" alt="4th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-GatesofGatotKaca.webp" alt="4th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
               <div class="col-md-4 item">
-                <img class="d-block w-100" src="https://i.postimg.cc/QNvPyZBY/KW-Treasureof-Aztec.webp" alt="5th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-TreasureofAztec.webp" alt="5th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
               <div class="col-md-4 item">
-                <img class="d-block w-100" src="https://i.postimg.cc/wjRBdpFh/KW-Wild-Bandito.webp" alt="6th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-WildBandito.webp" alt="6th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
             </div>
           </div>
@@ -807,13 +807,13 @@ Pengalaman baru bermain di APK`;
           <div class="carousel-item">
             <div class="items">
               <div class="col-md-4 item">
-                <img class="d-block w-100" src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-LuckyNeko.webp" alt="7th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-LuckyNeko.webp" alt="7th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
               <div class="col-md-4 item">
-                <img class="d-block w-100" src="https://i.postimg.cc/5Ny4wCYJ/KW-Lucky-Fortune.webp" alt="8th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-LuckyFortune.webp" alt="8th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
               <div class="col-md-4 item">
-                <img class="d-block w-100" src="https://i.postimg.cc/qBPrC5T2/KW-Golden-Lion.webp" alt="9th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
+                <img class="d-block w-100" src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-GoldenLion.webp" alt="9th" style="height: 100%; object-fit: cover; border-radius: 0.5rem;">
               </div>
             </div>
           </div>
@@ -1127,7 +1127,7 @@ Pengalaman baru bermain di APK`;
 
         const newLogo = document.createElement("img");
         newLogo.src =
-          "https://i.postimg.cc/rpgLtZw9/KW-POPUPAPLIKASI.webp";
+          "https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-LOGODESKTOP.webp";
         newLogo.alt = "KLIKWIN88 Logo";
         newLogo.title = "KLIKWIN88 Logo";
         newLogo.style.maxHeight = "40px";
@@ -1138,7 +1138,7 @@ Pengalaman baru bermain di APK`;
       const logoImg = document.querySelector(".navbar-brand img");
       if (window.innerWidth <= 768 && logoImg) {
         logoImg.src =
-          "https://i.postimg.cc/rpgLtZw9/KW-POPUPAPLIKASI.webp";
+          "https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-LOGOMOBILE.webp";
         logoImg.alt = "New Mobile Logo - KLIKWIN88";
         logoImg.title = "New Mobile Logo - KLIKWIN88";
       }
@@ -1164,7 +1164,7 @@ Pengalaman baru bermain di APK`;
     }
 
     const loginButtonHTML = `
-    <a href="https://klikwin88gacor06.xyz/register" class="btn btn-default accordion-toggle btn-joinnow" bis_skin_checked="1">
+    <a href="https://speed-ly.com/KLIKWIN88" class="btn btn-default accordion-toggle btn-joinnow" bis_skin_checked="1">
       <span class="text">MASUK</span>
       <span class="caret"></span>
     </a>`;
@@ -1196,7 +1196,7 @@ Pengalaman baru bermain di APK`;
     const mainElement = document.querySelector(".main");
     if (mainElement) {
       mainElement.style.backgroundImage =
-        "url('https://i.postimg.cc/3RVbqNCZ/KW-BGDESKTOP.webp')";
+        "url('http://plcl.me/images/xUJHx.jpg')";
       mainElement.style.backgroundColor = "#000000";
       mainElement.style.backgroundPosition = "top center";
       mainElement.style.backgroundRepeat = "no-repeat";
@@ -1245,43 +1245,43 @@ document.addEventListener("DOMContentLoaded", function () {
   menuDiv.className = "mobile-shortcut-menu";
   menuDiv.innerHTML = `
     <a href="/games/slots" class="mobile-shortcut-item">
-      <img src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-Slot.svg" alt="Slot" />
+      <img src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-Slot.svg" alt="Slot" />
       <span>Slots</span>
     </a>
     <a href="/games/sportsbook" class="mobile-shortcut-item">
-      <img src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-Sportbook.svg" alt="Sportbook" />
+      <img src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-Sportbook.svg" alt="Sportbook" />
       <span>Sportbook</span>
     </a>
     <a href="/games/casino" class="mobile-shortcut-item">
-      <img src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-Casino.svg" alt="Live Casino" />
+      <img src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-Casino.svg" alt="Live Casino" />
       <span>Live Casino</span>
     </a>
     <a href="/games/arcadegames" class="mobile-shortcut-item">
-      <img src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-Arcade.svg" alt="Arcade" />
+      <img src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-Arcade.svg" alt="Arcade" />
       <span>Arcade</span>
     </a>
     <a href="/games/lottery" class="mobile-shortcut-item">
-      <img src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-Togel.svg" alt="Lottery" />
+      <img src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-Togel.svg" alt="Lottery" />
       <span>Lottery</span>
     </a>
     <a href="/games/idnseamless" class="mobile-shortcut-item">
-      <img src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-IDNLive.svg" alt="IDN Live" />
+      <img src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-IDNLive.svg" alt="IDN Live" />
       <span>IDN Live</span>
     </a>
     <a href="/games/idnpoker" class="mobile-shortcut-item">
-      <img src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-IDNPoker.svg" alt="IDN Poker" />
+      <img src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-IDNPoker.svg" alt="IDN Poker" />
       <span>IDN Poker</span>
     </a>
     <a href="/games/tablegames" class="mobile-shortcut-item">
-      <img src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-TableGames.svg" alt="Table" />
+      <img src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-TableGames.svg" alt="Table" />
       <span>Table</span>
     </a>
     <a href="/games/slots/Fishing%20Game" class="mobile-shortcut-item">
-      <img src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-Fhising.svg" alt="Fhising" />
+      <img src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-Fhising.svg" alt="Fhising" />
       <span>Fhising</span>
     </a>
     <a href="https://idnraffle.com/" class="mobile-shortcut-item">
-      <img src="https://clickdrive.tech/storage/cgg/Klikwin88/KW-IDNRaffle.svg" alt="IDN Raffle" />
+      <img src="https://imgcdn.it.com/fgvd39llmr0q3vtfb90onts6w/membersite/asset/KW-IDNRaffle.svg" alt="IDN Raffle" />
       <span>IDN Raffle</span>
     </a>
   `;
